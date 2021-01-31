@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    width: 10%;
+    margin: 3%;
+    padding-left: 1rem;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 1.5rem; 
+}
+
+span {
+    color: #0B8AD9;
+}

@@ -1,0 +1,22 @@
+form {
+    display: flex;
+    align-items: center;
+    height: 3rem;
+    justify-content: center;
+    width: 50%;
+}
+
+.image {
+    height: 2rem;
+    margin-left: 0.5rem;
+    padding-top: 0.5rem;
+}
+
+.text {
+    border: none;
+    background-color: #f3f3f3;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    width: 50%;
+    margin-top: 0.5rem;
+}

@@ -1,0 +1,5 @@
+header {
+    box-shadow: 3px 3px rgba(221, 221, 221, 0.2);
+    width: 100%;
+    display: flex;
+}
